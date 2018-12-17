@@ -1,8 +1,4 @@
 # libFTP
-## Install Pip
-```
-pip install -i https://test.pypi.org/simple/ libFTP
-```
 ## Exmaple libFTP
 ```
 import libFTP as lfp
