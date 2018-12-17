@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="libFTP",
-    version="0.1",
+    version="0.4",
     author="blueboxdev",
     author_email="thanakorn.vsalab@gmail.com",
     description="A small example package FTP",
